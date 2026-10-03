@@ -46,9 +46,9 @@ Research project on navigating a swarm of heterogeneous drones using a flocking 
 
 ### CIC CDEP — Commercial Web Application
 
-Professional web-development work for the Romanian Chamber of Deputies public visitor platform.
+As an intern in the Romanian Chamber of Deputies IT Department, I contributed to creating its public visitor platform and later supported its maintenance and updates.
 
-- **Role:** Web developer
+- **Role:** Web developer intern
 - **Live site:** [cic.cdep.ro](https://cic.cdep.ro/)
 
 > The source code and implementation details are confidential and owned by the client.
