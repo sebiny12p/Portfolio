@@ -51,7 +51,7 @@ As an intern in the Romanian Chamber of Deputies IT Department, I contributed to
 - **Role:** Web developer intern
 - **Live site:** [cic.cdep.ro](https://cic.cdep.ro/)
 
-> The source code and implementation details are confidential and owned by the client.
+> The source code and implementation details are confidential and owned by the Chamber of Deputies
 
 ## Contact
 
