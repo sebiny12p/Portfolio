@@ -16,7 +16,7 @@ A commercial Unity platformer built and released independently under **Sebiny La
 
 ### Playfinder — Game Discovery Platform
 
-A web platform designed to turn game-library indecision into one launch-ready choice. It aggregates gaming libraries, standardises ownership and playtime data, and uses session length, mood, filtering, and game metadata to guide a player to one launch-ready recommendation. It also includes original multiplayer mini-games using Server-Sent Events and a progression/economy system.
+A web platform designed to turn game-library indecision into one launch-ready choice. It aggregates gaming libraries, standardises ownership and playtime data, and uses session length, mood, filtering, and game metadata to guide a player to one launch-ready recommendation. It also includes original multiplayer mini-games using Server-Sent Events and a progression/economy system. One of the games, Wardle, is available separately on [Github](https://github.com/sebiny12p/Wardle).
 
 - **Role:** Full-stack developer, collaborating with a teammate on frontend refinement, bug fixes, and security improvements
 - **Tech:** Node.js, Express.js, SQLite, HTML, CSS, JavaScript, Server-Sent Events
@@ -24,7 +24,7 @@ A web platform designed to turn game-library indecision into one launch-ready ch
 
 ---
 
-### The Harvest Effect — Java Mini-Game
+### The Harvest Effect 
 
 A turn-based cosmic farming game with both Java Swing and terminal interfaces. It uses an object-oriented domain model with abstract classes, interfaces, generics, custom exceptions, persistence, and automated integration tests.
 
@@ -34,19 +34,18 @@ A turn-based cosmic farming game with both Java Swing and terminal interfaces. I
 
 ---
 
-### INSASwarm — Heterogeneous Drone-Swarm Research
+### Navigation of a swarm of heterogeneous drones using a flocking model and airflow constraints
 
-Research project on navigating a swarm of heterogeneous drones using a flocking model and airflow constraints, undertaken during an INSA Lyon research placement at Inria. A C++ drone simulation written independently by the developer is intended for public release.
+Research project undertaken during an Erasmus program at INSA Lyon Erasmus, which included a placement at INRIA. The soon-to-be-public simulation was used with a coordinate-transition layer to the drones that use INRIA-provided code, which remain covered by the project NDA.
 
 - **Role:** Research-project developer
 - **Tech:** C++
-- **Status:** Simulation in progress. Inria-provided code and the hardware coordinate-transition layer are not public; the latter combines personal and Inria code and remains covered by the project NDA.
 
 ---
 
 ### CIC CDEP — Commercial Web Application
 
-As an intern in the Romanian Chamber of Deputies IT Department, I contributed to creating its public visitor platform and later supported its maintenance and updates.
+As an intern in the Romanian Chamber of Deputies IT Department, I contributed alongside 2 teammates in creating its public visitor platform and later supported its maintenance and updates.
 
 - **Role:** Web developer intern
 - **Live site:** [cic.cdep.ro](https://cic.cdep.ro/)
