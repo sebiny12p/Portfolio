@@ -55,6 +55,7 @@ As an intern in the Romanian Chamber of Deputies IT Department, I contributed al
 ## Contact
 
 - GitHub: [@sebiny12p](https://github.com/sebiny12p)
+- Email: Sebinylabs@gmail.com
 - Studio: Sebiny Labs
 
 *Project-specific code and assets remain in their respective repositories and distribution platforms.*
