@@ -36,11 +36,11 @@ A turn-based cosmic farming game with both Java Swing and terminal interfaces. I
 
 ### INSASwarm — Heterogeneous Drone-Swarm Research
 
-Research project on navigating a swarm of heterogeneous drones using a flocking model and airflow constraints, undertaken during an INSA Lyon research placement at Inria. The public component will focus on the C++ drone simulation.
+Research project on navigating a swarm of heterogeneous drones using a flocking model and airflow constraints, undertaken during an INSA Lyon research placement at Inria. A C++ drone simulation written independently by the developer is intended for public release.
 
 - **Role:** Research-project developer
 - **Tech:** C++
-- **Status:** Simulation in progress. The coordinate-transition layer is awaiting lab validation, so it is not presented as a completed or flight-validated system.
+- **Status:** Simulation in progress. Inria-provided code and the hardware coordinate-transition layer are not public; the latter combines personal and Inria code and remains covered by the project NDA.
 
 ---
 
