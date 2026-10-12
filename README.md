@@ -11,6 +11,7 @@ A commercial Unity platformer built and released independently under **Sebiny La
 - **Role:** Sole developer
 - **Tech:** Unity, C#
 - **Available on:** [Steam](https://store.steampowered.com/app/3189190/Sebio/) and [itch.io](https://sebastian12p.itch.io/sebio/) for Windows and Android
+- **Source:** Private repository (available upon request)
 
 ---
 
@@ -21,6 +22,17 @@ A web platform designed to turn game-library indecision into one launch-ready ch
 - **Role:** Full-stack developer, collaborating with a teammate on frontend refinement, bug fixes, and security improvements
 - **Tech:** Node.js, Express.js, SQLite, HTML, CSS, JavaScript, Server-Sent Events
 - **Live product:** [playfinder.club](https://playfinder.club/)
+- **Source:** Private repository (open-source mini-game available at [Wardle](https://github.com/sebiny12p/Wardle))
+
+---
+
+### The Assembly of Pongs — Bare-Metal RISC Arcade Game
+
+A fast-paced retro Pong arcade game built from scratch in 100% pure 32-bit RISC Assembly (934 lines of handwritten assembly). It features hardware-level memory-mapped I/O (MMIO) keyboard polling, an 80x60 VRAM framebuffer, flicker-free 60 FPS delta-rendering, paddle spin physics, and an autonomous AI opponent with 4 difficulty tiers and dynamic rally acceleration.
+
+- **Role:** Sole developer
+- **Tech:** 32-bit RISC Assembly (SCAT ISA), Computer Architecture, MMIO, Framebuffer Graphics
+- **Source:** [GitHub repository](https://github.com/sebiny12p/The-Assembly-of-Pongs)
 
 ---
 
