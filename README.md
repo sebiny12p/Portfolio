@@ -22,7 +22,7 @@ A web platform designed to turn game-library indecision into one launch-ready ch
 - **Role:** Full-stack developer, collaborating with a teammate on frontend refinement, bug fixes, and security improvements
 - **Tech:** Node.js, Express.js, SQLite, HTML, CSS, JavaScript, Server-Sent Events
 - **Live product:** [playfinder.club](https://playfinder.club/)
-- **Source:** Private repository (open-source mini-game available at [Wardle](https://github.com/sebiny12p/Wardle))
+- **Source:** Private repository (available upon request; open-source mini-game at [Wardle](https://github.com/sebiny12p/Wardle))
 
 ---
 
