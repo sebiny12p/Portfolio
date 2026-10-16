@@ -48,10 +48,10 @@ A turn-based cosmic farming game with both Java Swing and terminal interfaces. I
 
 ### Navigation of a swarm of heterogeneous drones using a flocking model and airflow constraints
 
-Research project undertaken during an Erasmus program at INSA Lyon Erasmus, which included a placement at INRIA. The soon-to-be-public simulation was used with a coordinate-transition layer to the drones that use INRIA-provided code, which remain covered by the project NDA.
+Research project undertaken during an Erasmus program at INSA Lyon, which included a research placement at INRIA. Developed a C++20 / Raylib 3D simulation modeling aerodynamic downwash constraints across a heterogeneous swarm (DIONE 2kg, Crazyflie Bolt 200g, Crazyflie 27g), coupled with a Hardware-in-the-Loop (HIL) flight bridge that translates simulated velocity fields into real-time control setpoints across cflib and MAVLink/PX4 interfaces under strict cage safety watchdogs.
 
 - **Role:** Research-project developer
-- **Tech:** C++
+- **Tech:** C++, Python, cflib, MAVLink, Flocking Algorithms, Aerodynamics
 
 ---
 
