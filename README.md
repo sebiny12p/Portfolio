@@ -15,6 +15,17 @@ A commercial Unity platformer built and released independently under **Sebiny La
 
 ---
 
+### CIC CDEP — Commercial Web Application
+
+As an intern in the Romanian Chamber of Deputies IT Department, I contributed alongside 2 teammates in creating its public visitor platform and later supported its maintenance and updates.
+
+- **Role:** Web developer intern
+- **Live site:** [cic.cdep.ro](https://cic.cdep.ro/)
+
+> The source code and implementation details are confidential and owned by the Chamber of Deputies
+
+---
+
 ### Playfinder — Game Discovery Platform
 
 A web platform designed to turn game-library indecision into one launch-ready choice. It aggregates gaming libraries, standardises ownership and playtime data, and uses session length, mood, filtering, and game metadata to guide a player to one launch-ready recommendation. It also includes original multiplayer mini-games using Server-Sent Events and a progression/economy system. One of the games, Wardle, is available separately on [Github](https://github.com/sebiny12p/Wardle).
@@ -62,17 +73,6 @@ A turn-based cosmic farming game with both Java Swing and terminal interfaces. I
 - **Role:** Developer
 - **Tech:** Java, Swing
 - **Source:** [GitHub repository](https://github.com/sebiny12p/TheHarvestEffect)
-
----
-
-### CIC CDEP — Commercial Web Application
-
-As an intern in the Romanian Chamber of Deputies IT Department, I contributed alongside 2 teammates in creating its public visitor platform and later supported its maintenance and updates.
-
-- **Role:** Web developer intern
-- **Live site:** [cic.cdep.ro](https://cic.cdep.ro/)
-
-> The source code and implementation details are confidential and owned by the Chamber of Deputies
 
 ## Contact
 
