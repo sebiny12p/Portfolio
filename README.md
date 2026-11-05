@@ -43,12 +43,13 @@ Research project undertaken during an Erasmus program at INSA Lyon, which includ
 
 - **Role:** Research-project developer
 - **Tech:** C++, Python, cflib, MAVLink, Flocking Algorithms, Aerodynamics
+> The source code and implementation details are confidential.
 
 ---
 
-### Scrolls of Agora — High-Throughput Partitioned Virtual Market Engine & Relational Concurrency Workbench
+### Scrolls of Agora — Virtual Market Engine & Relational Concurrency Workbench
 
-A relational transaction engine, multi-hub partitioned orderbook, and double-entry financial ledger across 15 normalized relations (BCNF/3NF) and 5 regional trading hubs. Built to eliminate race-condition item duplication ("duping") across 100 concurrent threads using pessimistic row-level locking (`SELECT ... FOR UPDATE`), prevent circular-wait deadlocks via deterministic primary-key lock ordering, enforce zero-sum financial invariants ($\sum \Delta = 0$) across balanced journal accounts, and trace multi-hop wash trading using cycle-safe recursive CTEs (`WITH RECURSIVE`).
+A relational transaction engine, multi-hub partitioned orderbook, and double-entry financial ledger across 15 normalized relations (BCNF/3NF) and 5 regional trading hubs with localized tax rates and sealed-bid kiosk auctions. Built to eliminate race-condition item duplication ("duping") across 100 concurrent threads using pessimistic row-level locking (`SELECT ... FOR UPDATE`), prevent circular-wait deadlocks via deterministic primary-key lock ordering, enforce zero-sum financial invariants ($\sum \Delta = 0$) across balanced journal accounts, and trace multi-hop wash trading using cycle-safe recursive CTEs (`WITH RECURSIVE`).
 
 - **Role:** Sole developer
 - **Tech:** PostgreSQL 17, PL/pgSQL, Python, FastAPI, psycopg Connection Pool, SQLite (WAL), Docker, HTML5 Canvas
@@ -70,7 +71,7 @@ A fast-paced retro Pong arcade game built from scratch in 100% pure 32-bit RISC 
 
 A turn-based cosmic farming game with both Java Swing and terminal interfaces. It uses an object-oriented domain model with abstract classes, interfaces, generics, custom exceptions, persistence, and automated integration tests.
 
-- **Role:** Developer
+- **Role:** Sole developer
 - **Tech:** Java, Swing
 - **Source:** [GitHub repository](https://github.com/sebiny12p/TheHarvestEffect)
 
