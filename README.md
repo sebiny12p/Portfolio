@@ -26,6 +26,25 @@ A web platform designed to turn game-library indecision into one launch-ready ch
 
 ---
 
+### Navigation of a swarm of heterogeneous drones using a flocking model and airflow constraints
+
+Research project undertaken during an Erasmus program at INSA Lyon, which included a research placement at INRIA. Developed a C++20 / Raylib 3D simulation modeling aerodynamic downwash constraints across a heterogeneous swarm (DIONE 2kg, Crazyflie Bolt 200g, Crazyflie 27g), coupled with a Hardware-in-the-Loop (HIL) flight bridge that translates simulated velocity fields into real-time control setpoints across cflib and MAVLink/PX4 interfaces under strict cage safety watchdogs.
+
+- **Role:** Research-project developer
+- **Tech:** C++, Python, cflib, MAVLink, Flocking Algorithms, Aerodynamics
+
+---
+
+### Scrolls of Agora — Decentralized MMORPG Guild Exchange & Anti-Dupe Engine
+
+A high-concurrency relational marketplace, orderbook, and double-entry financial ledger inspired by *The Elder Scrolls Online* and *World of Warcraft* economies. Engineered to eliminate concurrent race-condition item duplication ("duping") and gold double-spending using pessimistic row-level locking (`SELECT ... FOR UPDATE`), deterministic ascending lock ordering to prevent AB-BA deadlocks, an atomic escrow bidding engine, and a deflationary gold-sink ledger. Includes an interactive RPG market workstation with a 20-slot character inventory bag, 24h OHLCV candlestick telemetry, a 100-thread hardware-barrier concurrency stress lab, and an analytical SQL + Relational Algebra profiler (cross-realm arbitrage & RMT wash-trade fraud detection).
+
+- **Role:** Sole developer
+- **Tech:** PostgreSQL 18, PL/pgSQL, Python, FastAPI, SQLite (WAL), Docker, HTML5 Canvas
+- **Source:** [GitHub repository](https://github.com/sebiny12p/Scrolls-of-Agora)
+
+---
+
 ### The Assembly of Pongs — Bare-Metal RISC Arcade Game
 
 A fast-paced retro Pong arcade game built from scratch in 100% pure 32-bit RISC Assembly (934 lines of handwritten assembly). It features hardware-level memory-mapped I/O (MMIO) keyboard polling, an 80x60 VRAM framebuffer, flicker-free 60 FPS delta-rendering, paddle spin physics, and an autonomous AI opponent with 4 difficulty tiers and dynamic rally acceleration.
@@ -36,22 +55,13 @@ A fast-paced retro Pong arcade game built from scratch in 100% pure 32-bit RISC 
 
 ---
 
-### The Harvest Effect 
+### The Harvest Effect
 
 A turn-based cosmic farming game with both Java Swing and terminal interfaces. It uses an object-oriented domain model with abstract classes, interfaces, generics, custom exceptions, persistence, and automated integration tests.
 
 - **Role:** Developer
 - **Tech:** Java, Swing
 - **Source:** [GitHub repository](https://github.com/sebiny12p/TheHarvestEffect)
-
----
-
-### Navigation of a swarm of heterogeneous drones using a flocking model and airflow constraints
-
-Research project undertaken during an Erasmus program at INSA Lyon, which included a research placement at INRIA. Developed a C++20 / Raylib 3D simulation modeling aerodynamic downwash constraints across a heterogeneous swarm (DIONE 2kg, Crazyflie Bolt 200g, Crazyflie 27g), coupled with a Hardware-in-the-Loop (HIL) flight bridge that translates simulated velocity fields into real-time control setpoints across cflib and MAVLink/PX4 interfaces under strict cage safety watchdogs.
-
-- **Role:** Research-project developer
-- **Tech:** C++, Python, cflib, MAVLink, Flocking Algorithms, Aerodynamics
 
 ---
 
