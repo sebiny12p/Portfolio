@@ -46,12 +46,12 @@ Research project undertaken during an Erasmus program at INSA Lyon, which includ
 
 ---
 
-### Scrolls of Agora — Decentralized MMORPG Guild Exchange & Anti-Dupe Engine
+### Scrolls of Agora — High-Throughput Partitioned Virtual Market Engine & Relational Concurrency Workbench
 
-A high-concurrency relational marketplace, spatial guild-trader network, and double-entry financial ledger modeled after *The Elder Scrolls Online* and *World of Warcraft* economies across 5 regional hubs (**Wayrest**, **Elden Root**, **Mournhold**, **Imperial City**, and **Rawl'kha**). Engineered to eliminate concurrent race-condition item duplication ("duping") and gold double-spending using pessimistic row-level locking (`SELECT ... FOR UPDATE`), deterministic ascending lock ordering to prevent AB-BA deadlocks, sealed-bid Weekly Kiosk Flip auctions, atomic multi-table item tempering & enchanting, and a `WITH RECURSIVE` RMT money-laundering graph tracer.
+A high-concurrency relational exchange, multi-hub partitioned orderbook, and double-entry financial ledger modeled after the regional guild-trader economies of *The Elder Scrolls Online* and *World of Warcraft* across 5 regional trading hubs (**Wayrest**, **Elden Root**, **Mournhold**, **Imperial City**, and **Rawl'kha**). Built to eliminate concurrent race-condition item duplication and double-spending using pessimistic row-level locking (`SELECT ... FOR UPDATE`), deterministic ascending lock hierarchies to prevent AB-BA deadlocks, sealed-bid Weekly Kiosk Flip auctions, atomic multi-table crafting transactions, and a `WITH RECURSIVE` multi-hop laundering and cycle detection graph tracer.
 
 - **Role:** Sole developer
-- **Tech:** PostgreSQL 18, PL/pgSQL, Python, FastAPI, psycopg Connection Pool, SQLite (WAL), Docker, HTML5 Canvas
+- **Tech:** PostgreSQL 17, PL/pgSQL, Python, FastAPI, psycopg Connection Pool, SQLite (WAL), Docker, HTML5 Canvas
 - **Source:** [GitHub repository](https://github.com/sebiny12p/Scrolls-of-Agora)
 
 ---
