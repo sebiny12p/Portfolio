@@ -67,7 +67,7 @@ A fast-paced retro Pong arcade game built from scratch in 100% pure 32-bit RISC 
 
 ---
 
-### The Harvest Effect - Sci-fi Farming Game
+### The Harvest Effect — Sci-fi Farming Game
 
 A turn-based cosmic farming game with both Java Swing and terminal interfaces. It uses an object-oriented domain model with abstract classes, interfaces, generics, custom exceptions, persistence, and automated integration tests.
 
