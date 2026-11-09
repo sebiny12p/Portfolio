@@ -57,9 +57,9 @@ A relational transaction engine, multi-hub partitioned orderbook, and double-ent
 
 ---
 
-### The Assembly of Pongs — Bare-Metal RISC Arcade Game
+### The Assembly of Pongs — Arcade Pong Game
 
-A fast-paced retro Pong arcade game built from scratch in 100% pure 32-bit RISC Assembly (934 lines of handwritten assembly). It features hardware-level memory-mapped I/O (MMIO) keyboard polling, an 80x60 VRAM framebuffer, flicker-free 60 FPS delta-rendering, paddle spin physics, and an autonomous AI opponent with 4 difficulty tiers and dynamic rally acceleration.
+A fast-paced retro Pong arcade game built from scratch in 100% pure 32-bit RISC Assembly. It features hardware-level memory-mapped I/O (MMIO) keyboard polling, an 80x60 VRAM framebuffer, flicker-free 60 FPS delta-rendering, paddle spin physics, and an autonomous AI opponent with 4 difficulty tiers and dynamic rally acceleration.
 
 - **Role:** Sole developer
 - **Tech:** 32-bit RISC Assembly (SCAT ISA), Computer Architecture, MMIO, Framebuffer Graphics
@@ -67,7 +67,7 @@ A fast-paced retro Pong arcade game built from scratch in 100% pure 32-bit RISC 
 
 ---
 
-### The Harvest Effect
+### The Harvest Effect - Sci-fi Farming Game
 
 A turn-based cosmic farming game with both Java Swing and terminal interfaces. It uses an object-oriented domain model with abstract classes, interfaces, generics, custom exceptions, persistence, and automated integration tests.
 
