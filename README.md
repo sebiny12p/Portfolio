@@ -77,23 +77,23 @@ A turn-based cosmic farming game with both Java Swing and terminal interfaces. I
 
 ---
 
-### Ratchet & Clank: Railfinity
+### Ratchet & Clank: Railfinity — Procedural 3D Rail Platformer
 
-A fast-paced procedural 3D rail-grinding action platformer fan tribute built from scratch in C++20 and Raylib 5.0. Players grind across dynamic 3-rail holographic transit networks in Kerwan (Metropolis) and Nefarious City, dodging high-voltage plasma barriers, switching rails, leaping through dimensional rifts, and eliminating Blarg patrols and Nefarious combat drones with the classic Omniwrench strike and an unlockable weapon arsenal (Combuster, Warmonger, R.Y.N.O. 8). Features procedural audio synthesis with rotating franchise soundtrack streams, an in-game vendor kiosk (The Armorizer), bolt economies, and cross-platform native builds for Windows (.exe) and Android (.apk).
+A procedural 3D rail-grinding action platformer built in C++20 and Raylib 5.0. It features multi-lane grindrail navigation with dynamic camera tilt, jump and glide physics, upgradeable multi-weapon combat systems, and a zero-allocation engine architecture with real-time procedural audio synthesis.
 
 - **Role:** Sole developer
-- **Tech:** C++20, Raylib 5.0, OpenGL / OpenGL ES, GLSL, Android NDK (arm64-v8a), Procedural Audio
-- **Source:** [GitHub repository](https://github.com/sebiny12p/Rachet_and_Clank_Railfinity.git)
+- **Tech:** C++20, Raylib 5.0, OpenGL / OpenGL ES, GLSL, Android NDK
+- **Source:** [GitHub repository](https://github.com/sebiny12p/Rachet_and_Clank_Railfinity)
 
 ---
 
-### Destiny: The Flappy Ghost
+### Destiny: The Flappy Ghost — Arcade Survival Flight Game
 
-A paracausal arcade-survival flight game built in modern C++20 and Raylib 5.0 celebrating Destiny lore and mechanics. Players pilot a customizable Ghost shell across 4 iconic procedural sectors (Cosmodrome, Vault of Glass, Hellmouth, and Ascendant Realm). Features 2 distinct game modes—**Vanguard Patrol** (pure flight navigation with tactical Blinks, Dashes, Grapples, and Supers) and **Nightfall Strike** (unlocked via Tower Combat Drones, featuring manual-fire combat drone weapons, killable combatants, and Ultra Boss encounters). Includes 6 playable Light, Darkness, and Prismatic subclasses, 12 procedural Ghost shells, Eva Levante's shaders, Xûr's exotic catalysts, and native cross-platform releases for Windows and Android.
+An arcade survival flight game built in C++20 and Raylib 5.0. It features procedural barrier generation, separate navigation and combat modes, six modular ability subclasses with unique movement and screen-clearing mechanics, tactical drone support, and persistent cross-platform progression.
 
 - **Role:** Sole developer
-- **Tech:** C++20, Raylib 5.0, OpenGL / OpenGL ES, Miniaudio, Android NDK (arm64-v8a), Procedural Shaders
-- **Source:** [GitHub repository](https://github.com/sebiny12p/Destiny_The_Flappy_Ghost.git)
+- **Tech:** C++20, Raylib 5.0, OpenGL / OpenGL ES, Miniaudio, Android NDK
+- **Source:** [GitHub repository](https://github.com/sebiny12p/Destiny_The_Flappy_Ghost)
 
 ## Contact
 
