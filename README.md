@@ -1,6 +1,6 @@
 # Sebastian Paris
 
-2nd-year B.Sc. Computer Engineering student at **Politehnica University of Bucharest** (English-taught track) & **Erasmus+ / INRIA** research exchange student. I build games, real-time C++20 simulations, and backend/web systems under **Sebiny Labs**.
+2nd-year B.Sc. Computer Engineering student at **Politehnica University of Bucharest** (English-taught track). I build games, real-time C++20 simulations, and backend/web systems under **Sebiny Labs**.
 
 - **GitHub:** [@sebiny12p](https://github.com/sebiny12p)
 - **LinkedIn:** [Sebastian Paris](https://www.linkedin.com/in/sebastian-paris-6246813b8)
