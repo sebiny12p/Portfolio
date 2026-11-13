@@ -35,7 +35,9 @@ A procedural 3D rail-grinding action platformer built in C++20 and Raylib 5.0 fo
 - **Engineering Highlights:** `120 Hz` fixed-timestep physics accumulator, zero runtime heap allocations via pre-allocated static object pools, and cross-platform Windows / Android `arm64-v8a` parity
 - **Role:** Sole developer
 - **Tech:** C++20, Raylib 5.0, OpenGL / OpenGL ES, GLSL, CMake, Android NDK
-- **Source:** [GitHub repository](https://github.com/sebiny12p/Ratchet_and_Clank_Railfinity)
+- **Source:** [GitHub repository](https://github.com/sebiny12p/Ratchet_and_Clank_Railfinity) · [Playable Builds (Releases)](https://github.com/sebiny12p/Ratchet_and_Clank_Railfinity/releases)
+
+![Ratchet & Clank: Railfinity Gameplay](assets/railfinity.gif)
 
 #### Destiny: The Flappy Ghost — Arcade Survival Flight Game
 
@@ -44,7 +46,9 @@ An arcade survival flight game built in C++20 and Raylib 5.0 for Windows and And
 - **Engineering Highlights:** Deterministic `120 Hz` fixed-timestep loop, `PCG32` PRNG, and zero-allocation pre-allocated pools (obstacles, projectiles, 1,024 particle nodes)
 - **Role:** Sole developer
 - **Tech:** C++20, Raylib 5.0, OpenGL / OpenGL ES, Miniaudio, CMake, Android NDK
-- **Source:** [GitHub repository](https://github.com/sebiny12p/Destiny_The_Flappy_Ghost)
+- **Source:** [GitHub repository](https://github.com/sebiny12p/Destiny_The_Flappy_Ghost) · [Playable Builds (Releases)](https://github.com/sebiny12p/Destiny_The_Flappy_Ghost/releases)
+
+![Destiny: The Flappy Ghost Gameplay](assets/flappy_ghost.gif)
 
 #### The Assembly of Pongs — Arcade Pong Game
 
