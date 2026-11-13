@@ -80,6 +80,8 @@ Research project undertaken during an Erasmus+ exchange at **INSA Lyon** with a 
 - **Tech:** C++20, Raylib, Python, `cflib`, MAVLink/PX4, Flocking Algorithms, Aerodynamics
 - **Source:** Confidential (academic/research placement)
 
+![SwarmLab 3D Drone Swarm & Airflow Simulation](assets/swarmlab_sim.png)
+
 #### Scrolls of Agora — Virtual Market Engine & Relational Concurrency Workbench
 
 A relational transaction engine, multi-hub partitioned orderbook, and double-entry financial ledger across 15 normalized relations (BCNF/3NF) and 5 regional trading hubs with localized tax rates and sealed-bid kiosk auctions. Built to eliminate race-condition item duplication across 100 concurrent threads using pessimistic row-level locking (`SELECT ... FOR UPDATE`), prevent circular-wait deadlocks via deterministic primary-key lock ordering, enforce zero-sum financial invariants across balanced journal accounts, and trace multi-hop wash trading using cycle-safe recursive CTEs (`WITH RECURSIVE`).
