@@ -80,7 +80,7 @@ Research project undertaken during an Erasmus+ exchange at **INSA Lyon** with a 
 - **Tech:** C++20, Raylib, Python, `cflib`, MAVLink/PX4, Flocking Algorithms, Aerodynamics
 - **Source:** Confidential (academic/research placement)
 
-![SwarmLab 3D Drone Swarm & Airflow Simulation](assets/swarmlab_sim.png)
+![SwarmLab 3D Drone Swarm & Airflow Simulation](assets/drone_swarm.gif)
 
 #### Scrolls of Agora — Virtual Market Engine & Relational Concurrency Workbench
 
