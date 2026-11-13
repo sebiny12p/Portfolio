@@ -25,8 +25,10 @@ A commercial Unity platformer built and released independently under **Sebiny La
 
 - **Role:** Sole developer (full development, Steam & itch.io release, and Android port)
 - **Tech:** Unity, C#, Windows & Android
-- **Available on:** [Steam](https://store.steampowered.com/app/3189190/Sebio/) and [itch.io](https://sebastian12p.itch.io/sebio/)
+- **Available on:** [Steam](https://store.steampowered.com/app/3189190/Sebio/) · [itch.io](https://sebastian12p.itch.io/sebio/) · [Watch Trailer on YouTube](https://youtu.be/CZwlIhsXjdo)
 - **Source:** Private repository (available upon request)
+
+[![Sebio Commercial Trailer](https://img.youtube.com/vi/CZwlIhsXjdo/maxresdefault.jpg)](https://youtu.be/CZwlIhsXjdo)
 
 #### Ratchet & Clank: Railfinity — Procedural 3D Rail Platformer
 
